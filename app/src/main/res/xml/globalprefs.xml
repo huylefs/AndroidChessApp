@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/globalpreferences">
+
+
+
+
+        <CheckBoxPreference
+            android:title="@string/pref_fullscreen"
+            android:defaultValue="true"
+            android:summary="@string/pref_fullscreen_desc"
+            android:key="fullScreen" />
+
+        <CheckBoxPreference
+            android:title="@string/pref_sound"
+            android:summary="@string/pref_sound_desc"
+            android:key="moveSounds"
+            android:defaultValue="false"/>
+
+
+
+    </PreferenceCategory>
+</PreferenceScreen>
