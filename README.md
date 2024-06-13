@@ -10,5 +10,8 @@ This is a simple project of building an Android Chess Application in Mobile Appl
 * Playing chess with Computer, friends
 * Solve chess puzzles
 * Time setup
-   
+
+# Future improvements <a name="features"></a>
+* Add Practice mode
+* Change chess board preferences
 
